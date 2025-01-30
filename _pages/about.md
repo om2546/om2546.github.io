@@ -19,4 +19,18 @@ Responsible for querying database and co-leader of a project. (2023)
 
 Certificated
 ======
-- 
+- Google Data Analytics Professional Certificate (2024)
+- Hackerrank SQL Intermediate Certificate (2024)
+- Certificated a Problem Solving using C++ from CodinGame. (2022)
+- Participated in the Shopee Code league 2022 as a group leader. (2022)
+
+Education
+======
+- Bachelor's degree (2021 - Present)
+King Mongkut’s University of Technology Thonburi
+Computer Engineering
+(7 semester GPAX 3.75)
+- High School (2018 - 2021)
+Suankularb Wittayalai 
+Gifted and Talented Education Program
+(GPAX 3.87)
