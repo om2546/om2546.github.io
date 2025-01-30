@@ -21,7 +21,7 @@ repository               : "om2546/om2546.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "om.png"
+  avatar           : "om.jpg"
   name             : "Chayarob Chantrapiwat" 
   pronouns         : # example: 
   bio              : "Computer Engineering Student"
